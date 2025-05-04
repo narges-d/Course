@@ -1,3 +1,3 @@
-# Deep-learning
+# Diferrent Course
 Hi, 
-This repository contains my implementations of deep learning models and exercises from various courses I have undertaken, as well as my personal practice projects. As I progress through my learning journey, I will continually update and expand this repository with new code and documentation.
+This repository contains courses i passed from Open AI , IBM and so on ..,you can find all practice projects. As I progress through my learning journey, I will continually update and expand this repository with new code and documentation.
